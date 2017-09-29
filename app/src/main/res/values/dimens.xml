@@ -1,6 +1,7 @@
 <resources>
-    <dimen name="threesixeight">368dp</dimen>
+    <dimen name="threesixeight">268dp</dimen>
     <dimen name="fourninefive">495dp</dimen>
+    <dimen name="bdim">70dp</dimen>
     <dimen name="eight">8dp</dimen>
 
 </resources>
